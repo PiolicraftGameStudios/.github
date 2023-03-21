@@ -8,4 +8,4 @@ Working alone can bring you complications but you can also have complications in
   
 <h2>Credits</h2>
   
-- [Woozy's Studio](https://www.youtube.com/@WoozyStudio)
+- [Woozy's Studio](https://github.com/WoozyStudio)
