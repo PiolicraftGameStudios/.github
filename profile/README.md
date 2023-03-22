@@ -3,8 +3,9 @@
 </div>
   
 ---
+## Welcome to the Piolicraft Game Studios organization.
 
-Working alone can bring you complications but you can also have complications in a team, but with Piolicraft it will be easier! Piolicraft Game Studio is dedicated to many things: Minecraft Bedrock Add-Ons, Live2D Vtubers, Discord Bots and Unity Applications. We have knowledge in some programming languages: C#, C++, C, JavaScript and Json. Piolicraft also has a Betatester program. Betatesters are users who have access to updates of anything before its release date!
+At Piolicraft we take care of creating many projects with the help of other organizations, and we support the communities that are part of these projects. In the Piolicraft community we focus more on the development of Add-Ons, Programs or Applications and more! We put a lot of work into these types of projects, share our experiences and build things together. Join our Discord server for more information about Piolicraft.
   
 <h2>Credits</h2>
   
