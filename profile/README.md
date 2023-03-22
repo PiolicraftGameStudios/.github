@@ -7,7 +7,8 @@
 
 At Piolicraft we take care of creating many projects with the help of other organizations, and we support the communities that are part of these projects. In the Piolicraft community we focus more on the development of Add-Ons, Programs or Applications and more! We put a lot of work into these types of projects, share our experiences and build things together. Join our Discord server for more information about Piolicraft.
 
-
+## Support
+- [Discord Official Server](https://discord.gg/kUgYEaaVkm)
   
 ## Credits
   
