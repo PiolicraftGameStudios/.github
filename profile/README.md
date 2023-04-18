@@ -1,5 +1,5 @@
 <div>
-  <a href="https://github.com/PiolicraftStudios"><img src="https://cdn.discordapp.com/attachments/1059645728391168010/1098015792550912111/style_3_title.png">
+  <a href="https://github.com/PiolicraftStudios"><img src="https://cdn.discordapp.com/attachments/1059645728391168010/1098016457570394122/style_3_title.png">
 </div>
   
 ---
