@@ -16,14 +16,14 @@ These internal projects refer to tags or categories of these projects, each one 
 
 If you want to help or support us you can do it in the official Discord, we read all your comments and opinions. But all this has rules, we recommend you to read them in the server rules channel. You will also support us a lot by following our creators!
 
-[Creators and Credits List]()
+[Creators and Credits List](https://github.com/PiolicraftGameStudios/creators)
 
 #### How to report issues
 If you find an error, bug or something like that you can report it on the official [Piolicraft Discord Server](https://discord.gg/kUgYEaaVkm) in the report issues channel.
 
 #### License and Terms of Service
 
-The official Piolicraft license can be found in the repository called license. There you will find all the information you need to know such as copyrights, copyright, general information, etc.
+The official Piolicraft license can be found in the repository called [license](https://github.com/PiolicraftGameStudios/license). There you will find all the information you need to know such as copyrights, copyright, general information, etc.
 
 ## Piolicraft Game Studios Programs
 All the Terms of Services, rules and information are on the Discord for your review!
