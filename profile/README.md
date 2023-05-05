@@ -12,7 +12,7 @@ Estos proyectos internos se refieren a etiquetas o categorías de estos proyecto
 | ![Betatester](https://img.shields.io/badge/Betatesters-yellow.svg?style=flat) |Los proyectos betatesters se refieren al club que tiene Piolicraft. Los betatesters son los usuarios que descubren, liberan, prueban o ayudan a probar cosas antes de que sean liberadas o el resto del público pueda verlas. Nos ayudan mucho a encontrar bugs, errores o nos dan sugerencias.|
 | ![Obsoleto](https://img.shields.io/badge/Obsoleto-grey.svg?style=flat) | Los proyectos obsoletos son aquellos en los que no se continuará ni se trabajará, y a los que no se corregirán sus errores. |
 
-### Ayuda a la Organización Piolicraft
+### Ayuda a la Organización de Piolicraft
 
 Si quieres ayudarnos o apoyarnos puedes hacerlo en el Discord oficial, leemos todos vuestros comentarios y opiniones. Pero todo esto tiene reglas, te recomendamos que las leas en el canal de reglas del servidor. ¡También nos apoyarás mucho siguiendo a nuestros creadores!
 
