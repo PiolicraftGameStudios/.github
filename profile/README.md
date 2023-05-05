@@ -1,31 +1,31 @@
-## Piolicraft Game Studios organization.
+## Organización de Piolicraft Game Studios.
 
-At Piolicraft we create many types of projects. We are the organization that created Craftdeath, CATsafio and we are allied with TeamBedrock. We also do many other independent projects. Piolicraft is mostly dedicated to Minecraft related projects, but also from time to time with Discord and Unity.
+En Piolicraft creamos muchos tipos de proyectos. Somos la organización que creó Craftdeath y estamos aliados con TeamBedrock. También hacemos muchos otros proyectos independientes. Piolicraft se dedica principalmente a proyectos relacionados con Minecraft, pero también de vez en cuando con Discord y Unity.
 
-### Piolicraft internal projects on GitHub
+### Proyectos internos de Piolicraft en GitHub
 
-These internal projects refer to tags or categories of these projects, each one is represented by a different color and named after itself.
+Estos proyectos internos se refieren a etiquetas o categorías de estos proyectos, cada una de las cuales está representada por un color diferente y lleva su propio nombre.
 
 | Category     | Description           
 | ------------- |-------------|
-| ![Official](https://img.shields.io/badge/Official-red.svg?style=flat) |The official projects are the ones that are finished in time and form, the ones that are for some very important matter. These projects are eventually released on some occasion. They can be carried out with other organizations or just Piolicraft.|
-| ![Betatester](https://img.shields.io/badge/Betatesters-yellow.svg?style=flat) |The betatesters projects refer to the club that Piolicraft has. The betatesters are the users who find out, release, test or help to test things before they are released or the rest of the public can see them. They help us a lot to find bugs, errors or give us suggestions.|
-| ![Obsolete](https://img.shields.io/badge/Obsolete-grey.svg?style=flat) | Obsolete projects are those that will not be continued or worked on, and that will not have their bugs fixed. |
+| ![Oficial](https://img.shields.io/badge/Oficial-red.svg?style=flat) |Los proyectos oficiales son los que se terminan en tiempo y forma, los que son para algún asunto muy importante. Estos proyectos se dan a conocer en alguna ocasión. Pueden realizarse con otras organizaciones o sólo Piolicraft.|
+| ![Betatester](https://img.shields.io/badge/Betatesters-yellow.svg?style=flat) |Los proyectos betatesters se refieren al club que tiene Piolicraft. Los betatesters son los usuarios que descubren, liberan, prueban o ayudan a probar cosas antes de que sean liberadas o el resto del público pueda verlas. Nos ayudan mucho a encontrar bugs, errores o nos dan sugerencias.|
+| ![Obsoleto](https://img.shields.io/badge/Obsoleto-grey.svg?style=flat) | Los proyectos obsoletos son aquellos en los que no se continuará ni se trabajará, y a los que no se corregirán sus errores. |
 
-### Helping Piolicraft Organization
+### Ayuda a la Organización Piolicraft
 
-If you want to help or support us you can do it in the official Discord, we read all your comments and opinions. But all this has rules, we recommend you to read them in the server rules channel. You will also support us a lot by following our creators!
+Si quieres ayudarnos o apoyarnos puedes hacerlo en el Discord oficial, leemos todos vuestros comentarios y opiniones. Pero todo esto tiene reglas, te recomendamos que las leas en el canal de reglas del servidor. ¡También nos apoyarás mucho siguiendo a nuestros creadores!
 
-[Creators and Credits List](https://github.com/PiolicraftGameStudios/creators)
+[Lista de creadores y créditos](https://github.com/PiolicraftGameStudios/creators)
 
-#### How to report issues
-If you find an error, bug or something like that you can report it on the official [Piolicraft Discord Server](https://discord.gg/kUgYEaaVkm) in the report issues channel.
+#### Cómo informar de problemas
+Si encuentras un error, bug o algo parecido puedes reportarlo en el [Piolicraft Discord Server] oficial(https://discord.gg/kUgYEaaVkm) en el canal de [reportar errores](https://discord.gg/wwhnjQfhqF).
 
-#### License and Terms of Service
+#### Licencia y condiciones del servicio
 
-The official Piolicraft license can be found in the repository called [license](https://github.com/PiolicraftGameStudios/license). There you will find all the information you need to know such as copyrights, copyright, general information, etc.
+La licencia oficial de Piolicraft se encuentra en el repositorio llamado [license](https://github.com/PiolicraftGameStudios/license). Allí encontrarás toda la información que necesitas saber como derechos de autor, copyright, información general, etc.
 
-## Piolicraft Game Studios Programs
-All the Terms of Services, rules and information are on the Discord for your review!
+## Programas de Piolicraft Game Studios
+¡Todas las Condiciones de servicio, reglas e información están en el Discord para que las revises!
 
-- Be a betatester to find out things before everyone else [here](https://discord.gg/kUgYEaaVkm) in the information channel!
+- ¡Sé un betatester para enterarte de las cosas antes que los demás [aquí](https://discord.gg/kUgYEaaVkm) en el canal de información!
