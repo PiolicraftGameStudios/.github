@@ -6,7 +6,7 @@ En Piolicraft creamos muchos tipos de proyectos. Somos la organización que cre�
 
 Estos proyectos internos se refieren a etiquetas o categorías de estos proyectos, cada una de las cuales está representada por un color diferente y lleva su propio nombre.
 
-| Category     | Description           
+| Categoría     | Descripción           
 | ------------- |-------------|
 | ![Oficial](https://img.shields.io/badge/Oficial-red.svg?style=flat) |Los proyectos oficiales son los que se terminan en tiempo y forma, los que son para algún asunto muy importante. Estos proyectos se dan a conocer en alguna ocasión. Pueden realizarse con otras organizaciones o sólo Piolicraft.|
 | ![Betatester](https://img.shields.io/badge/Betatesters-yellow.svg?style=flat) |Los proyectos betatesters se refieren al club que tiene Piolicraft. Los betatesters son los usuarios que descubren, liberan, prueban o ayudan a probar cosas antes de que sean liberadas o el resto del público pueda verlas. Nos ayudan mucho a encontrar bugs, errores o nos dan sugerencias.|
