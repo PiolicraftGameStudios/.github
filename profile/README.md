@@ -16,14 +16,8 @@ Estos proyectos internos se refieren a etiquetas o categorías de estos proyecto
 
 Si quieres ayudarnos o apoyarnos puedes hacerlo en el Discord oficial, leemos todos vuestros comentarios y opiniones. Pero todo esto tiene reglas, te recomendamos que las leas en el canal de reglas del servidor. ¡También nos apoyarás mucho siguiendo a nuestros creadores!
 
-[Lista de creadores y créditos](https://github.com/PiolicraftGameStudios/creators)
-
 #### Cómo informar de problemas
-Si encuentras un error, bug o algo parecido puedes reportarlo en el [Piolicraft Discord Server] oficial(https://discord.gg/kUgYEaaVkm) en el canal de [reportar errores](https://discord.gg/wwhnjQfhqF).
-
-#### Licencia y condiciones del servicio
-
-La licencia oficial de Piolicraft se encuentra en el repositorio llamado [license](https://github.com/PiolicraftGameStudios/license). Allí encontrarás toda la información que necesitas saber como derechos de autor, copyright, información general, etc.
+Si encuentras un error, bug o algo parecido puedes reportarlo en el [Servidor de Discord](https://discord.gg/kUgYEaaVkm) en el canal de [reportar errores](https://discord.gg/wwhnjQfhqF).
 
 ## Programas de Piolicraft Game Studios
 ¡Todas las Condiciones de servicio, reglas e información están en el Discord para que las revises!
