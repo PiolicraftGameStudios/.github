@@ -8,7 +8,7 @@ Estos proyectos internos se refieren a etiquetas o categorías de estos proyecto
 
 | Categoría     | Descripción           
 | ------------- |-------------|
-| ![Oficial](https://img.shields.io/badge/Oficial-red.svg?style=flat) |Los proyectos oficiales son los que se terminan en tiempo y forma, los que son para algún asunto muy importante. Estos proyectos se dan a conocer en alguna ocasión.|
+| ![Oficial](https://img.shields.io/badge/Oficial-2ea967.svg?style=flat) |Los proyectos oficiales son los que se terminan en tiempo y forma, los que son para algún asunto muy importante. Estos proyectos se dan a conocer en alguna ocasión.|
 | ![Betatester](https://img.shields.io/badge/Betatesters-yellow.svg?style=flat) |Los proyectos betatesters se refieren al programa que tiene TeamBedrock. Los betatesters son los usuarios que ayudan a probar proyectos antes de que el resto del público pueda verlos. Nos ayudan mucho a encontrar bugs, errores y nos dan sugerencias.|
 | ![Obsoleto](https://img.shields.io/badge/Obsoleto-grey.svg?style=flat) | Los proyectos obsoletos son aquellos en los que no se continuará ni se trabajará, y a los que no se corregirán sus errores. |
 
