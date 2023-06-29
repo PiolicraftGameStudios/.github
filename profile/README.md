@@ -1,4 +1,8 @@
-## Organización de TeamBedrock Club.
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1123774309614239744/1123774552246329344/TeamBedrockTitle.png" alt="banner" width=600>
+</p>
+
+## Bienvenido/a a TeamBedrock Club
 
 En TeamBedrock creamos muchos tipos de proyectos. Somos la organización que creó Craftdeath. TeaBedrock se dedica principalmente a proyectos relacionados con Minecraft, pero también de vez en cuando con Discord entre otros.
 
