@@ -4,7 +4,7 @@
 
 ## Bienvenido/a a TeamBedrock Club
 
-En TeamBedrock creamos muchos tipos de proyectos. Somos la organización que creó Craftdeath. TeaBedrock se dedica principalmente a proyectos relacionados con Minecraft, pero también de vez en cuando con Discord entre otros.
+En TeamBedrock creamos muchos tipos de proyectos. Somos la organización que creó Craftdeath. TeamBedrock se dedica principalmente a proyectos relacionados con Minecraft, pero también de vez en cuando con Discord entre otros.
 
 ### Proyectos internos de TeamBedrock en GitHub
 
